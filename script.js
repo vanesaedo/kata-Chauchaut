@@ -1,13 +1,13 @@
 // Chauchaut
 
-const cargador = () => {
+const chauchat = () => {
     for (let i = 1; i < 8; i++){
-        const pium = "pium!";
-        console.log(pium);
+        const cargador = "pium!";
+        console.log(cargador);
     }
 };
 
-cargador();
+chauchat();
 
 
 
